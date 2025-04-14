@@ -1,0 +1,58 @@
+img{
+    width: 200px;
+}
+
+p{
+    font-size: x-large;
+}
+
+span{
+    font-size: 50px;
+    color: darkred;
+}
+
+body{
+    font-family: "Nunito", sans-serif;
+}
+
+.m span{
+    color: blue;
+}
+.m p{
+    color: blue;
+    font-weight: 400;
+text-transform: uppercase;
+letter-spacing: 5px;
+}
+
+
+.m h1{
+    padding-bottom: 100px;
+    margin-left: 50px;
+
+}
+    
+.m img{
+    border-radius: 20px;
+}
+
+.p{
+    background-image: url(../images/adorable-animal-cat-1643457.jpg);
+    background-size: cover;
+    }
+.p h1{
+text-align: center;
+}
+.p p{
+    text-align: center;
+    font-weight: 800;
+    font-style: italic;
+    color: darkred;
+}
+
+
+
+.o{
+    background-color: bisque;
+
+}
