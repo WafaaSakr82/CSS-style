@@ -1,0 +1,47 @@
+img{
+    width:100%;
+    border-radius:2%;
+}
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: smaller;
+    font-family: "Nunito", sans-serif;
+    color: dimgray;
+}
+p{
+    text-align: center;
+    font-family: "Langar", system-ui;
+    text-transform: uppercase;
+    font-weight: lighter;
+    letter-spacing: 2px;
+    font-size: 25px;
+    margin-top: 1px;
+}
+span{
+    font-size: 30px;
+}
+h2{
+    font-weight: bold;
+}
+h3{
+    font-weight: lighter;
+    color: dimgray;
+}
+p1{
+    font-style: oblique;
+    color: dimgray;
+    font-size: small;
+}
+.item{
+    width: 30%;
+    font-family: "Nunito", sans-serif;
+    text-align: center; 
+    box-sizing: border-box;
+    padding-inline: 50px;
+    float: left;
+}
+.container{
+    width: 100%;
+    margin-inline: auto;
+}
